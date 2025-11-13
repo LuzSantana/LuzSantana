@@ -19,7 +19,7 @@
 
 ---
 
-# 🎓 Formación Complementaria  
+### 🎓 Formación Complementaria  
 
 - **Certificación “Data Science Career Path”** – Asociación AxMéxico (en curso)  
 - **Private Equity Practice (PEP)** – Advent International (2025)  
