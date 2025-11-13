@@ -33,7 +33,7 @@
 
 | Proyecto | Descripción | Enlace |
 |-----------|--------------|--------|
-| **Tesina en Python (Licenciatura)** | Limpieza y manipulación de datos para crear grupos de estudio en específico y aplicar análisis descriptivo (diagramas de cajas y bigotes) y estadístico (matrices de correlación . | [Ver proyecto →](https://github.com/TU_USUARIO/Tesina-Python-Licenciatura) |
+| **Tesina en Python (Licenciatura)** | Limpieza y manipulación de datos para crear grupos de estudio en específico y aplicar análisis descriptivo (diagramas de cajas y bigotes) y estadístico (matrices de correlación . | [Ver proyecto →][(https://github.com/TU_USUARIO/Tesina-Python-Licenciatura](https://github.com/LuzSantana/Python-Tesina-Licenciatura)) |
 | **Tesina en RStudio (Especialidad)** | Aplicación de métodos estadísticos para la predicción del estado de salud mediante PCA, LDA y Análisis Logístico. | [Ver proyecto →](https://github.com/TU_USUARIO/Tesina-RStudio-Especialidad) |
 | **Dashboard Data Science (Certificación)** | Creación de un dashboard interactivo con visualización de métricas y filtrado dinámico con segmentaciones. | [Ver proyecto →](https://github.com/TU_USUARIO/Dashboard-DataScience) |
 | **Becle Investment Case (Advent International, 2025)** | Análisis financiero y visualización de datos en Python dentro del programa *Private Equity Practice (PEP)*. | [Ver proyecto →](https://github.com/TU_USUARIO/Becle-Investment-Case) |
