@@ -1,4 +1,4 @@
-# 👋 Hola, soy Luz Santana  
+# Luz Santana  
 
 **Data Scientist en formación con enfoque en estadística aplicada**  
 **Analista de datos con experiencia en modelado predictivo y visualización**  
