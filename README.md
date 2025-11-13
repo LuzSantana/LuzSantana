@@ -1,7 +1,7 @@
 # Luz Santana  
 
 **Data Scientist en formación con enfoque en estadística aplicada**  
-**Analista de datos con experiencia en modelado predictivo y visualización**  
+**Experiencia en modelado predictivo y visualización**  
 
 🎓 Especialidad en Estadística Aplicada (IIMAS, UNAM) | Física Biomédica (Facultad de Ciencias, UNAM)  
 📘 Actualmente cursando la **Certificación “Data Science Career Path”** (Asociación AxMéxico)
